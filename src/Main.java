@@ -1,8 +1,4 @@
 public class Main {
-
-    static{
-
-    }
     public static void main(String[] args) {
         Main main = new Main();
 
